@@ -20,6 +20,12 @@ $ composer require indigophp/doctrine-annotation-autoload
 
 Install this package when you need to autoload annotations.
 
+After installation, dump the autoload file:
+
+``` php
+$ composer dump-autoload
+```
+
 
 ## Security
 
