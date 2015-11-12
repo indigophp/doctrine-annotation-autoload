@@ -21,11 +21,6 @@ $ composer require indigophp/doctrine-annotation-autoload
 Install this package when you need to autoload annotations.
 
 
-## Contributing
-
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
-
-
 ## Security
 
 If you discover any security related issues, please contact us at [security@indigophp.com](mailto:security@indigophp.com).
