@@ -1,3 +1,8 @@
+> # ⚠ Unmaintained
+> The project is not maintained anymore.
+>
+> You can find a maintained fork at https://github.com/Yogarine/doctrine-annotation-autoload
+
 # Composer Doctrine Annotation Autoload plugin
 
 [![Latest Version](https://img.shields.io/github/release/indigophp/doctrine-annotation-autoload.svg?style=flat-square)](https://github.com/indigophp/doctrine-annotation-autoload/releases)
